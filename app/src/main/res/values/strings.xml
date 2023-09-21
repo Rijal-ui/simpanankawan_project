@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simpanan Kawan</string>
+    <string name="login">Log in</string>
+    <string name="sign_in">Sign in to continue</string>
+    <string name="email_phone">Email/Phone</string>
+    <string name="password">Password</string>
+    <string name="forgot_pas">Forgot Password?</string>
+    <string name="signup_w">Signup !</string>
+    <string name="sign_up">sign up to continue</string>
+    <string name="your_name">Your Name</string>
+    <string name="username">Username</string>
+    <string name="no_handphone">No. Handphone</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
